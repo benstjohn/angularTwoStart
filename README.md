@@ -2,10 +2,10 @@
 Starting an Angular 2 project and don't know where to begin? I got you...
 
 ##There are 4 files:
-* package.json
-* typings.json
-* tsconfig.json
-* systemjs.config.js
+* [package.json](package.json)
+* [typings.json](typings.json)
+* [tsconfig.json](tsconfig.json)
+* [systemjs.config.js](systemjs.config.js)
 
 Create a folder, and place all 4 of these files in that folder.
 
