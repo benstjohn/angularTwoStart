@@ -1,4 +1,4 @@
-# angularTwoStart
+# Angular2 Starting Guide
 Starting an Angular 2 project and don't know where to begin? I got you...
 
 ##There are 4 files:
@@ -19,7 +19,10 @@ Create a folder, and place all 4 of these files in that folder.
 ####Tip: (I suggest using [iTerm](https://www.iterm2.com/) if you are on Mac, it is prettier and has better features than terminal)
 
 Within your CLI, go to the directory that you placed the files in.
-Enter this in: npm install
+Enter this in:
+```
+npm install
+```
 
 Node Package Manager (npm) will install all of the dependencies that are in your package.json file.
 
